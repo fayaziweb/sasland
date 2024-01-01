@@ -1,0 +1,304 @@
+body {
+    padding: 0;
+    margin: 0;
+
+}
+
+
+header {
+    background-color: #8979F3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.rakib {}
+
+.rakib img {}
+
+nav {}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    margin: 0 0 0 35px;
+    color: white;
+    font-weight: bolder;
+}
+
+/* section banner start 1 */
+
+section {}
+
+.banner {
+    background-color: #8979F3;
+    text-align: center;
+    color: white;
+    padding: 40px;
+}
+
+.banner h1 {
+    margin: 0;
+    font-size: 50px;
+    padding: 0 0 0 0;
+}
+
+.banner p {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+/* balti section start */
+
+.balti {
+    display: flex;
+    justify-content: space-between;
+}
+
+.balti-item {
+    width: 38%;
+    margin: 75px;
+}
+
+.balti-item img {}
+
+.balti-item h1 {
+    font-size: 33px;
+}
+
+.balti-item p {
+    color: #000000b3;
+}
+
+.mog {
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+footer {
+   background-color: #8979f333;
+   background-image: body {
+    padding: 0;
+    margin: 0;
+
+}
+
+header {
+    background-color: #8979F3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.rakib {}
+
+.rakib img {}
+
+nav {}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    margin: 0 0 0 35px;
+    color: white;
+    font-weight: bolder;
+}
+
+/* section banner start 1 */
+
+section {}
+
+.banner {
+    background-color: #8979F3;
+    text-align: center;
+    color: white;
+    padding: 40px;
+}
+
+.banner h1 {
+    margin: 0;
+    font-size: 50px;
+    padding: 0 0 0 0;
+}
+
+.banner p {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+/* balti section start */
+
+.balti {
+    display: flex;
+    justify-content: space-between;
+}
+
+.balti-item {
+    width: 38%;
+    margin: 75px;
+}
+
+.balti-item img {
+
+}
+
+.balti-item h1 {
+    font-size: 33px;
+}
+
+.balti-item p {
+    color: #000000b3;
+}
+
+.mog {
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+footer {
+   background-color: #8979f333;
+   
+}
+
+.jeep-text {
+    display: flex;
+}
+
+.foodball-item {
+    width: 20%;
+    padding: 40px;
+    text-align: justify;
+}
+
+.foodball-item h3 {}
+
+.foodball-item li {
+    list-style: none;
+}
+
+.foodball-item li a {
+    text-decoration: none;
+    padding: 20px;
+};
+}
+
+.jeep-text {
+    display: flex;
+    
+}
+
+.foodball-item {
+    width: 20%;
+    padding: 40px;
+    align-items: center;
+    /* margin-left: 30px; */
+}
+
+.foodball-item h3 {}
+
+.foodball-item li {
+    list-style: none;
+    padding: 20px;
+}
+
+.foodball-item li a {
+    text-decoration: none;
+    padding: 20px;
+}
+
+footer{}
+.jeep-text{}
+.foodball-item{
+    text-align: center
+}
+.foodball-item p {
+    text-align: ;
+}
+
+.foodball-item img{
+    padding: 20px;
+}
+
+/* mobile device */
+@media only screen and (max-width: 600px){
+    header {
+        background-color: red;
+
+       display: block;
+
+       padding: 10px;
+       
+    }
+    nav ul li a {
+        text-decoration: none;
+        margin: 20px;
+        color: white;
+        font-weight: 200px;
+        text-align: center;
+    }
+    .banner {
+       background-color: aqua;
+        text-align: center;
+        color: white;
+        padding: 50px;
+    }
+    
+    .banner h1 {
+        margin: 10px;
+        font-size: 25px;
+        padding: 0 0 0 0;
+    }
+    
+    .banner p {
+        margin-top: 10px;
+        font-size: 10px;
+    }
+}
+
+/* tablet and landscape mobile */
+@media only screen and (min-width:601px) and (max-width:768px) {
+    header {
+        background-color: goldenrod;
+    }
+}
+
+/* tablet,tablet landscape */
+@media only screen and (min-width:769px) and (max-width:992px) {
+    header {
+       background-color: purple;
+    }
+}
+
+/* square desktop,small laptop */
+@media only screen and (min-width:993px) and (max-width:1024px) {
+    header {
+      background-color: gray;
+     }
+}
+
